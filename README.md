@@ -39,25 +39,26 @@ SELECT Investment_Avenues, AVG(age) AS avg_age FROM finance GROUP BY Investment_
 
 * Insights
 
-- Mutual Funds and Fixed Deposits are top investment choices
-- Males invest more in equities; females prefer safer avenues
-- Main objectives: capital growth and financial security
-- Younger groups show higher risk tolerance and diversification
+1. Mutual Funds and Fixed Deposits are top investment choices
+2. Males invest more in equities; females prefer safer avenues
+3. Main objectives: capital growth and financial security
+4. Younger groups show higher risk tolerance and diversification
 
 
 
 * Recommendations
 
-- Offer tailored products based on age and gender segments
-- Emphasize financial literacy for risk-return understanding
-- Promote balanced portfolios combining mutual funds and deposits
+1. Offer tailored products based on age and gender segments
+2. Emphasize financial literacy for risk-return understanding
+3. Promote balanced portfolios combining mutual funds and deposits
 
 
 
 * Tech Stack
-- Python 3.x - pandas, numpy, matplotlib, seaborn
-- MySQL + SQLAlchemy (PyMySQL)
-- Jupyter Notebook - analysis presentation
+
+1. Python 3.x - pandas, numpy, matplotlib, seaborn
+2. MySQL + SQLAlchemy (PyMySQL)
+3. Jupyter Notebook - analysis presentation
 
 
 
