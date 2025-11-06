@@ -1,4 +1,5 @@
 Finance Data - Investor Preferences Analysis
+
 Author: Almat Apseit
 Date: 2025
 Tools: Python (pandas, numpy, matplotlib, seaborn), MySQL, Jupyter Notebook
@@ -13,10 +14,10 @@ It demonstrates a complete data analytics workflow - from data cleaning and SQL 
 
 * Objectives
 
-- Identify the most popular investment avenues
-- Explore how age and gender influence investment decisions
-- Analyze motivational factors behind financial choices
-- Integrate MySQL queries into a Python-based analytics workflow
+1. Identify the most popular investment avenues
+2. Explore how age and gender influence investment decisions
+3. Analyze motivational factors behind financial choices
+4. Integrate MySQL queries into a Python-based analytics workflow
 
 
 * Key Steps
